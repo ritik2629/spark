@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/spark/static/css/main.2cfd6663.css",
+    "main.js": "/spark/static/js/main.e588d39a.js",
+    "index.html": "/spark/index.html",
+    "main.2cfd6663.css.map": "/spark/static/css/main.2cfd6663.css.map",
+    "main.e588d39a.js.map": "/spark/static/js/main.e588d39a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2cfd6663.css",
+    "static/js/main.e588d39a.js"
+  ]
+}
